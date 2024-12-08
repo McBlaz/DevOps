@@ -1,0 +1,25 @@
+C:\Users\mario\source\repos\CalcularMaxMin\CalcularMaxMin\obj\Debug\net6.0\CalcularMaxMin.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\CalcularMaxMin\CalcularMaxMin\obj\Debug\net6.0\CalcularMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\CalcularMaxMin\CalcularMaxMin\obj\Debug\net6.0\CalcularMaxMin.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\CalcularMaxMin\CalcularMaxMin\obj\Debug\net6.0\CalcularMaxMin.AssemblyInfo.cs
+C:\Users\mario\source\repos\CalcularMaxMin\CalcularMaxMin\obj\Debug\net6.0\CalcularMaxMin.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\CalcularMaxMin\CalcularMaxMin\bin\Debug\net6.0\CalcularMaxMin.exe
+C:\Users\mario\source\repos\CalcularMaxMin\CalcularMaxMin\bin\Debug\net6.0\CalcularMaxMin.deps.json
+C:\Users\mario\source\repos\CalcularMaxMin\CalcularMaxMin\bin\Debug\net6.0\CalcularMaxMin.runtimeconfig.json
+C:\Users\mario\source\repos\CalcularMaxMin\CalcularMaxMin\bin\Debug\net6.0\CalcularMaxMin.dll
+C:\Users\mario\source\repos\CalcularMaxMin\CalcularMaxMin\bin\Debug\net6.0\ref\CalcularMaxMin.dll
+C:\Users\mario\source\repos\CalcularMaxMin\CalcularMaxMin\bin\Debug\net6.0\CalcularMaxMin.pdb
+C:\Users\mario\source\repos\CalcularMaxMin\CalcularMaxMin\bin\Debug\net6.0\Libreria_calculadoramaxmin.dll
+C:\Users\mario\source\repos\CalcularMaxMin\CalcularMaxMin\bin\Debug\net6.0\Libreria_calculadoramaxmin.pdb
+C:\Users\mario\source\repos\CalcularMaxMin\CalcularMaxMin\obj\Debug\net6.0\CalcularMaxMin.csproj.CopyComplete
+C:\Users\mario\source\repos\CalcularMaxMin\CalcularMaxMin\obj\Debug\net6.0\CalcularMaxMin.dll
+C:\Users\mario\source\repos\CalcularMaxMin\CalcularMaxMin\obj\Debug\net6.0\ref\CalcularMaxMin.dll
+C:\Users\mario\source\repos\CalcularMaxMin\CalcularMaxMin\obj\Debug\net6.0\CalcularMaxMin.pdb
+C:\Users\mario\source\repos\CalcularMaxMin\CalcularMaxMin\obj\Debug\net6.0\CalcularMaxMin.genruntimeconfig.cache
+D:\GRADO DE VIDEOJUEGOS (AÑO 3)\Desarrollo y validación\CalcularMaxMin\CalcularMaxMin\obj\Debug\net6.0\CalcularMaxMin.csproj.AssemblyReference.cache
+D:\GRADO DE VIDEOJUEGOS (AÑO 3)\Desarrollo y validación\CalcularMaxMin\CalcularMaxMin\obj\Debug\net6.0\CalcularMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+D:\GRADO DE VIDEOJUEGOS (AÑO 3)\Desarrollo y validación\CalcularMaxMin\CalcularMaxMin\obj\Debug\net6.0\CalcularMaxMin.AssemblyInfoInputs.cache
+D:\GRADO DE VIDEOJUEGOS (AÑO 3)\Desarrollo y validación\CalcularMaxMin\CalcularMaxMin\obj\Debug\net6.0\CalcularMaxMin.AssemblyInfo.cs
+D:\GRADO DE VIDEOJUEGOS (AÑO 3)\Desarrollo y validación\CalcularMaxMin\CalcularMaxMin\obj\Debug\net6.0\CalcularMaxMin.csproj.CoreCompileInputs.cache
+D:\GRADO DE VIDEOJUEGOS (AÑO 3)\Desarrollo y validación\CalcularMaxMin\CalcularMaxMin\obj\Debug\net6.0\CalcularMaxMin.dll
+D:\GRADO DE VIDEOJUEGOS (AÑO 3)\Desarrollo y validación\CalcularMaxMin\CalcularMaxMin\obj\Debug\net6.0\CalcularMaxMin.pdb

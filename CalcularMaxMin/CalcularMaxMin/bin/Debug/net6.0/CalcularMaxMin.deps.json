@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CalcularMaxMin/1.0.0": {
+        "dependencies": {
+          "Libreria_calculadoramaxmin": "1.0.0"
+        },
+        "runtime": {
+          "CalcularMaxMin.dll": {}
+        }
+      },
+      "Libreria_calculadoramaxmin/1.0.0": {
+        "runtime": {
+          "Libreria_calculadoramaxmin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalcularMaxMin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Libreria_calculadoramaxmin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

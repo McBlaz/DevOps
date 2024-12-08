@@ -1,0 +1,24 @@
+C:\Users\mario\source\repos\CalcularMaxMin\Libreria_calculadoramaxmin\bin\Debug\net6.0\Libreria_calculadoramaxmin.deps.json
+C:\Users\mario\source\repos\CalcularMaxMin\Libreria_calculadoramaxmin\bin\Debug\net6.0\Libreria_calculadoramaxmin.dll
+C:\Users\mario\source\repos\CalcularMaxMin\Libreria_calculadoramaxmin\bin\Debug\net6.0\ref\Libreria_calculadoramaxmin.dll
+C:\Users\mario\source\repos\CalcularMaxMin\Libreria_calculadoramaxmin\bin\Debug\net6.0\Libreria_calculadoramaxmin.pdb
+C:\Users\mario\source\repos\CalcularMaxMin\Libreria_calculadoramaxmin\obj\Debug\net6.0\Libreria_calculadoramaxmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\CalcularMaxMin\Libreria_calculadoramaxmin\obj\Debug\net6.0\Libreria_calculadoramaxmin.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\CalcularMaxMin\Libreria_calculadoramaxmin\obj\Debug\net6.0\Libreria_calculadoramaxmin.AssemblyInfo.cs
+C:\Users\mario\source\repos\CalcularMaxMin\Libreria_calculadoramaxmin\obj\Debug\net6.0\Libreria_calculadoramaxmin.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\CalcularMaxMin\Libreria_calculadoramaxmin\obj\Debug\net6.0\Libreria_calculadoramaxmin.dll
+C:\Users\mario\source\repos\CalcularMaxMin\Libreria_calculadoramaxmin\obj\Debug\net6.0\ref\Libreria_calculadoramaxmin.dll
+C:\Users\mario\source\repos\CalcularMaxMin\Libreria_calculadoramaxmin\obj\Debug\net6.0\Libreria_calculadoramaxmin.pdb
+C:\Users\mario\source\repos\CalcularMaxMin\Libreria_calculadoramaxmin\obj\Debug\net6.0\Libreria_calculadoramaxmin.csproj.AssemblyReference.cache
+D:\GRADO DE VIDEOJUEGOS (AÑO 3)\Desarrollo y validación\CalcularMaxMin\Libreria_calculadoramaxmin\bin\Debug\net6.0\Libreria_calculadoramaxmin.deps.json
+D:\GRADO DE VIDEOJUEGOS (AÑO 3)\Desarrollo y validación\CalcularMaxMin\Libreria_calculadoramaxmin\bin\Debug\net6.0\Libreria_calculadoramaxmin.dll
+D:\GRADO DE VIDEOJUEGOS (AÑO 3)\Desarrollo y validación\CalcularMaxMin\Libreria_calculadoramaxmin\bin\Debug\net6.0\Libreria_calculadoramaxmin.pdb
+D:\GRADO DE VIDEOJUEGOS (AÑO 3)\Desarrollo y validación\CalcularMaxMin\Libreria_calculadoramaxmin\obj\Debug\net6.0\Libreria_calculadoramaxmin.csproj.AssemblyReference.cache
+D:\GRADO DE VIDEOJUEGOS (AÑO 3)\Desarrollo y validación\CalcularMaxMin\Libreria_calculadoramaxmin\obj\Debug\net6.0\Libreria_calculadoramaxmin.GeneratedMSBuildEditorConfig.editorconfig
+D:\GRADO DE VIDEOJUEGOS (AÑO 3)\Desarrollo y validación\CalcularMaxMin\Libreria_calculadoramaxmin\obj\Debug\net6.0\Libreria_calculadoramaxmin.AssemblyInfoInputs.cache
+D:\GRADO DE VIDEOJUEGOS (AÑO 3)\Desarrollo y validación\CalcularMaxMin\Libreria_calculadoramaxmin\obj\Debug\net6.0\Libreria_calculadoramaxmin.AssemblyInfo.cs
+D:\GRADO DE VIDEOJUEGOS (AÑO 3)\Desarrollo y validación\CalcularMaxMin\Libreria_calculadoramaxmin\obj\Debug\net6.0\Libreria_calculadoramaxmin.csproj.CoreCompileInputs.cache
+D:\GRADO DE VIDEOJUEGOS (AÑO 3)\Desarrollo y validación\CalcularMaxMin\Libreria_calculadoramaxmin\obj\Debug\net6.0\Libreria_calculadoramaxmin.dll
+D:\GRADO DE VIDEOJUEGOS (AÑO 3)\Desarrollo y validación\CalcularMaxMin\Libreria_calculadoramaxmin\obj\Debug\net6.0\refint\Libreria_calculadoramaxmin.dll
+D:\GRADO DE VIDEOJUEGOS (AÑO 3)\Desarrollo y validación\CalcularMaxMin\Libreria_calculadoramaxmin\obj\Debug\net6.0\Libreria_calculadoramaxmin.pdb
+D:\GRADO DE VIDEOJUEGOS (AÑO 3)\Desarrollo y validación\CalcularMaxMin\Libreria_calculadoramaxmin\obj\Debug\net6.0\ref\Libreria_calculadoramaxmin.dll
